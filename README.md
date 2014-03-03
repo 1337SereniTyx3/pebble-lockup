@@ -1,9 +1,8 @@
 Pebble LockUp
 ========================
 
-![First screenshot](https://raw.github.com/andrwj/pebble-lockup/master/screenshot1.png)    
-![Second screenshot](https://raw.github.com/andrwj/pebble-lockup/master/screenshot2.png)
-![Third screenshot](https://raw.github.com/andrwj/pebble-lockup/master/screenshot3.png)
+![First screenshot](https://raw.github.com/andrwj/pebble-lockup/master/screenshot.png)   ![2nd screenshot](https://raw.github.com/andrwj/pebble-lockup/master/screenshot1.png)    
+![3rd screenshot](https://raw.github.com/andrwj/pebble-lockup/master/screenshot2.png)   ![4th screenshot](https://raw.github.com/andrwj/pebble-lockup/master/screenshot3.png)
 
 --
 Lock up your watch in case watch is not with you.
